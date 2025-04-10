@@ -2,8 +2,7 @@
 
 A lightweight, elegant Markdown viewer and editor with local storage capabilities. This application allows users to create, edit, save, and manage Markdown documents entirely in the browser.
 
-![Markdown Viewer Dark Mode](imageFolder/dark.png)
-![Markdown Viewer Dark Mode](imageFolder/light.png)
+![Markdown Viewer Dark Mode](./light.png)
 
 ## Features
 
